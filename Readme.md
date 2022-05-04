@@ -5,4 +5,4 @@ Com a construção desta aplicação Web, pude exercitar, fixar e compreender me
 - Manipulação do DOM; <br>
 - Desenvolvimento de raciocínio lógico. <br>
 Link para o GitHub Pages: <br>
-<a href="https://leonardopaeslp.github.io/nota-de-discentes/">Acessar a Aplicação Web</a>
+<a href="https://leonardopaeslp.github.io/controle_de_despesas/">Acessar a Aplicação Web</a>
